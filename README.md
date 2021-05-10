@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @billyroush009
+- 👋 Hi, I’m Bill
 - 👀 I’m interested in becoming a professional developer.
 - 🌱 I’m currently learning Python, Java, and general web development.
 - 💞️ I’m looking to collaborate on anything that I can learn from!
